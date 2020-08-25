@@ -1,10 +1,10 @@
-This folder contains release for commscope QA.
+- This folder contains release for commscope QA.
 
-ansible-1.0-fixes contain fixes for Ansible1.0 modules.
+- ansible-1.0-fixes contain fixes for Ansible1.0 modules.
 
-ansible-1.1 contains icx modules developed as part of Ansible1.1.
+- ansible-1.1 contains icx modules developed as part of Ansible1.1.
 
-To use fixes and new modules run:
+- To use fixes and new modules run:
 easy_install path_for_icx_files
 
 for example:
